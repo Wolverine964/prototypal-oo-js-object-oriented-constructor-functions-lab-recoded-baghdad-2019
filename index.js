@@ -3,3 +3,4 @@ class Scooter{
     this.year=year;
     this.model=model;
     this.color=color}}
+    
